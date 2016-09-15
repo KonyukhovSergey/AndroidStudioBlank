@@ -1,2 +1,2 @@
 # AndroidStudioBlank
-Blank project for tha Android Studio
+Blank project for the Android Studio
